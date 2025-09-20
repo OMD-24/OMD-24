@@ -125,8 +125,8 @@ public class AuctionController {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omd_24)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/OMD-24)
+[![CodeChef](https://img.shields.io/badge/CodeChef-omd__24-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/omd_24)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=LeetCode\&logoColor=black)](https://leetcode.com/omd_24)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/omd_24)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/omd_24)
 
 </div>
