@@ -98,12 +98,12 @@ public class AuctionController {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OMD-24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMD-24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OMD-24&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Current Focus
@@ -122,10 +122,10 @@ public class AuctionController {
 
 | 🏏 Cricket Stat | 💻 Code Stat |
 |-----------------|---------------|
-| Favorite Player: [Your Choice] | Favorite Language: Java ☕ |
+| Favorite Player: Rohit Sharma | Favorite Language: Java ☕ |
 | Dream Team: India 🇮🇳 | Dream Framework: Spring Boot 🍃 |
 | Batting Style: Aggressive | Coding Style: Clean & Efficient |
-| Favorite Format: T20 ⚡ | Favorite Pattern: MVC 🏗️ |
+| Favorite Format: ODI ⚡ | Favorite Pattern: MVC 🏗️ |
 
 </div>
 
@@ -142,7 +142,7 @@ public class AuctionController {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=OMD-24&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
   **"Code with passion, play with heart! 🏏💻"**
   
